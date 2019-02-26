@@ -9,4 +9,5 @@ In this project, we'll be implementing an LPC vocoder to reduce the bandwidth re
   - Hui-Ying Siao (hysiao@ucdavis.edu)
   
 ## Project Tasks
-  - 
+  - hola
+  
