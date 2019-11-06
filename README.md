@@ -8,5 +8,4 @@ In this project, we'll be implementing an LPC vocoder to reduce the bandwidth re
   - Ryan Bunk (rjbunk@ucdavis.edu)
   - Hui-Ying Siao (hysiao@ucdavis.edu)
   
-## Project Tasks
-  - 
+
