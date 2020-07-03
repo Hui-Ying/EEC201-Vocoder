@@ -1,4 +1,4 @@
-# Vocoder implementation using the LPC algorithm
+# SiaoBunk_Vocoding
 EEC 201 Final Project
 
 ## Project Description
