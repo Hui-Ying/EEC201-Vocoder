@@ -1,4 +1,4 @@
-# SiaoBunk_Vocoding
+# Vocoder Implementation
 EEC 201 Final Project
 
 ## Project Description
