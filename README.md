@@ -55,4 +55,3 @@ identify any distinct advantages to a lattice structure as opposed to a direct f
 - Video (in progress)
 
 
-[alt text](ryansgithubaccount/SiaoBunk_Vocoding/Output.jpg?raw=true "title")
